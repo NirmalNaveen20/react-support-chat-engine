@@ -4,7 +4,9 @@ import Avatar from './Avatar'
 const SupportEngine = () => {
     return (
         <div>
-            <Avatar />
+            <Avatar
+                style={ {position: 'fixed', bottom: '24px', right: '24px'} }
+             />
         </div>
     )
 }

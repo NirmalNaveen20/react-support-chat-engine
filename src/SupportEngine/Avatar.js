@@ -6,7 +6,7 @@ const Avatar = props => {
     const [hovered, setHovered] = useState(false)
 
     return (
-        <div style={ {position: 'fixed', bottom: '24px', right: '24px'} }>
+        <div style={props.style}>
             <div 
                 className='transition-3'
                 style={{
