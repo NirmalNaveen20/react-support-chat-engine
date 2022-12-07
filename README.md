@@ -39,3 +39,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Some Dependencies
+yarn add @ant-design/icons
+yarn add axios
+yarn add react-chat-engine
